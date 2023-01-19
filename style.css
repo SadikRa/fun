@@ -1,0 +1,182 @@
+*{
+    margin: 0;
+    font-family: sans-serif;
+}
+/* styles header */
+.header-section{
+    margin: 0%;
+    padding: auto;
+}
+.header{
+    background-image: url(images/banner/banner3.png);
+    background-repeat: no-repeat;
+    width: 1920px;
+    height: 1080px;
+    padding-top: 10px;
+}
+.header-title{
+    width: 680px;
+    font-size: 65px;
+    margin: 216px 230px 0px 845px ;
+    text-align: right;
+    color: azure;
+}
+.header-description{
+    width: 420px;
+    font-size: 16px;
+    margin: 30px 380px 0px 1100px ;
+    text-align: right;
+    color: azure;
+}
+.btn-primary{
+    margin: 50px 230px 0px 1390px;
+    font-size: 22px;
+    padding: 12px 10px;
+    background-color: orangered;
+    border-radius: 5px;
+    border: none;
+    color: rgb(7, 90, 214);
+}
+/* main styles */
+.first-section{
+    margin: 100px 322px 0px 300px ;
+    
+}
+/* first section styles */
+.div-first{
+    display: flex;
+    align-items: center;
+}
+.my-fail{
+    width: 180px;
+    margin-bottom: 20px;
+}
+.first-div-description{
+    width: 350px;
+    margin-bottom: 20px;
+}
+.first-ul {
+    list-style: none;
+  }
+  
+.first-ul li:before {
+    content: '✓';
+  }
+  /* second section styles */
+.secound-section{
+    margin-top: 200px;
+}
+.second-div{
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+    margin-left: 500px;
+}
+.second-header-h{
+    text-align: center;
+    font-size: 40px;
+    
+}
+.div-flex{
+    margin-right: 80px;
+    text-align: center;
+}
+/* section three styles */
+.section-three{
+    margin-top: 200px;
+    margin-left: 300px;
+}
+.three-img{
+    display: flex;
+    align-items: center;
+}
+.div-title-three{
+    width: 280px;
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+.div-description-three{
+    width: 300px;
+    margin-bottom: 20px;
+}
+.list-three {
+    list-style: none;
+  }
+.list-three li:before {
+    content: '✓';
+  }
+  /* section four styles */
+  .section-four{
+    background-image:linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%), url(images/watch.png);
+    background-repeat: no-repeat;
+     margin-top: 230px;
+     margin-left: 300px;
+     margin-right: 500px;
+    
+  }
+.div-four{
+  margin-left: 50px;
+  margin-bottom: 130px;
+}
+.div-title-four{
+    width: 500px;
+    font-size: 40px;
+    margin-bottom: 20px;
+    padding-top: 20px;
+}
+.btn-two{
+    padding: 15px 25px;
+   background-color: azure; 
+   font-size: 20px;
+   border: none;
+   margin-bottom: 25px;
+}
+/* styles footer section */
+.footer-section{
+    background-color: black;
+    margin-top: 100px;
+    width: auto;
+    height: 600px;
+}
+.div-footer{
+    display: flex;
+    align-items: center;
+}
+.footer-h-a{
+    color: azure;
+}
+.footer-header{
+    color: azure;
+}
+.footer-header-description{
+    color: azure;
+    width: 400px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.foter-h{
+    color: azure;
+    margin-bottom: 25px;
+}
+.footer-h-two{
+    color: azure;
+    margin-bottom: 8px;
+}
+.footer-form{
+    color: azure;
+    
+}
+.btn-footer{
+    color: azure;
+    background-color: #005FAC;
+    padding: 10px 15px;
+}
+.div-header-footer{
+    margin-left: 350px;
+    margin-top: 120px;
+
+}
+.from-footer-div{
+    margin-left: 400px;
+
+}
